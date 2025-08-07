@@ -2,79 +2,121 @@
 
 class Program
 {
+    public static ConsoleKeyInfo ReadExitKey()
+    {
+        var key = Console.ReadKey(true);
+        return key;
+    }
+    public static bool CloseProgram()
+    {
+        Console.WriteLine("----------------------------------------");
+        Console.WriteLine("Enter price and quantity, or press any key to quit or press enter to continue");
+        var key = ReadExitKey();
+        return key.Key!=ConsoleKey.Enter;
+    }
+    
     public static void Main(string[] args)
     {
-
-        List<(decimal price, int quantity)> _shopItems = new();
-        var total = 0.0m;
-
-        var exitProgram = false;
-        Console.WriteLine("Enter price and quantity, or press arrow down to quit or enter to continue");
-        
-        while (!exitProgram&&Console.ReadKey(true).Key != ConsoleKey.Escape)
+        void PrintReceipt(List<(decimal price,int quantity)> shopItems,decimal total)
         {
-            
+            Console.WriteLine("----------------------------------------");
+            Console.WriteLine($"Reciept");
+            Console.WriteLine("----------------------------------------");
+            shopItems.ForEach(item =>
+                Console.WriteLine($"{Math.Round(item.price,2)} x {item.quantity} = {item.price * item.quantity}"));
+            Console.WriteLine("----------------------------------------");
+            Console.WriteLine($"Total = {Math.Round(total,2)}");
+            Console.WriteLine("----------------------------------------");
+        }
+        
+        var isProgramClosed = CloseProgram();
+        if (isProgramClosed)
+        {
+            return;
+        }
+       
+        List<(decimal price, int quantity)> _shopItems = new();
+        
+        var total = 0.0m;
+       
+        try
+        {
+
+            var (price, quantity) = CheckReceiptItem();
+            if (price > -1 && quantity > -1)
+            {
+                total += price * quantity;
+                _shopItems.Add((price, quantity));
+            }
+        }
+        catch (InvalidPriceOrQuantityException e)
+        {
+            Console.WriteLine(e.Message);
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine($"Unknown error happened {e.Message}");
+        }
+
+        if (!isProgramClosed)
+        {
+            PrintReceipt(_shopItems, total);   
+        }
+
+    }
+    
+    public static (decimal price,int quantity) CheckReceiptItem()
+    {
+        var exitProgram = false;
+        decimal checkedPrice=-1;
+        int checkedQuantity=-1;
+        while (!exitProgram)
+        {
+
             bool isValidPrice = false;
             bool isValidQuantity = false;
-            decimal price;
-            int quantity;
             
-            
-            Console.WriteLine("----------------------------------------");
-            
-            
-                Console.WriteLine("Enter Price :");
-                 isValidPrice = decimal.TryParse(Console.ReadLine(), out price);
-                Console.WriteLine("----------------------------------------");
-                Console.WriteLine("Enter Quantity :");
-                 isValidQuantity = int.TryParse(Console.ReadLine(), out  quantity);
-                Console.WriteLine("----------------------------------------");
-            
+            var (uncheckedPrice, uncheckedQuantity) = PriceAndQuantityReader.ReadPriceAndQuantity();
+            isValidPrice = decimal.TryParse(uncheckedPrice, out checkedPrice);
+            isValidQuantity = int.TryParse(uncheckedQuantity, out checkedQuantity);
+
 
             while ((!isValidPrice || !isValidQuantity) && !exitProgram)
             {
                 if (!isValidPrice && isValidQuantity)
                 {
                     Console.WriteLine("Invalid Price");
-                    Console.WriteLine("----------------------------------------");
-                    Console.WriteLine("Enter Price :");
-                    isValidPrice = decimal.TryParse(Console.ReadLine(), out price);
+                    
+                    isValidPrice = decimal.TryParse(PriceAndQuantityReader.ReadPrice(), out checkedPrice);
                 }
                 else if (isValidPrice && !isValidQuantity)
                 {
                     Console.WriteLine("Invalid Quantity");
-                    Console.WriteLine("----------------------------------------");
-                    Console.WriteLine("Enter Quantity :");
-                    isValidQuantity = int.TryParse(Console.ReadLine(), out quantity);
+                    
+                    isValidQuantity = int.TryParse(PriceAndQuantityReader.ReadQuantity(), out checkedQuantity);
                 }
                 else if (!isValidPrice && !isValidQuantity)
                 {
                     Console.WriteLine("Invalid Price and Quantity");
-                    Console.WriteLine("----------------------------------------");
-                    Console.WriteLine("Enter Price :");
-                    isValidPrice = decimal.TryParse(Console.ReadLine(), out price);
-                    Console.WriteLine("----------------------------------------");
-                    Console.WriteLine("Enter Quantity :");
-                    isValidQuantity = int.TryParse(Console.ReadLine(), out quantity);
+                    var (newUncheckedPrice, newUncheckedQuantity) = PriceAndQuantityReader.ReadPriceAndQuantity();
+                    isValidPrice = decimal.TryParse(newUncheckedPrice, out checkedPrice);
+                    isValidQuantity = int.TryParse(newUncheckedQuantity, out checkedQuantity);
                     Console.WriteLine("----------------------------------------");
                 }
-                else
+                else if (isValidPrice && isValidQuantity)
                 {
                     break;
                 }
+                
             }
 
-            _shopItems.Add((price, quantity));
-            total += Math.Round(price * quantity,2);
-
-        }
-
-        Console.WriteLine("----------------------------------------");
-        Console.WriteLine("Total : " + Math.Round(total,2));
-        Console.WriteLine("----------------------------------------");
-        _shopItems.ForEach(item =>
-            Console.WriteLine($"{Math.Round(item.price,2)} x {item.quantity} = {item.price * item.quantity}"));
+            exitProgram=CloseProgram();
+        } 
         
+        if(checkedPrice<0||checkedQuantity<0)
+            throw new InvalidPriceOrQuantityException("Invalid Price and Quantity Inputs");
+        
+        return (checkedPrice, checkedQuantity);
     }
 }
 

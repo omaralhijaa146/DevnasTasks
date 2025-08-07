@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReceiptTotalCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29f5842f35427e4ef3f58680f91451b5b99fd8a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0641079c47f8896430add7b63974ec020f410b0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReceiptTotalCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReceiptTotalCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
