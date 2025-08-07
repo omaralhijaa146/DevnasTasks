@@ -1,4 +1,4 @@
-﻿namespace DevnasTasks;
+﻿namespace ReceiptTotalCalculator;
 
 class Program
 {
