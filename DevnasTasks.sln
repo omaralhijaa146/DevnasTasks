@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptTotalCalculator", "ReceiptTotalCalculator\ReceiptTotalCalculator.csproj", "{C673A375-4627-4502-8943-3D0953B9EB7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Help-DeskTicketQueue", "Help-DeskTicketQueue\Help-DeskTicketQueue.csproj", "{39B86BA7-F1A5-4830-AABD-56E26F877A0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C673A375-4627-4502-8943-3D0953B9EB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C673A375-4627-4502-8943-3D0953B9EB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C673A375-4627-4502-8943-3D0953B9EB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39B86BA7-F1A5-4830-AABD-56E26F877A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B86BA7-F1A5-4830-AABD-56E26F877A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B86BA7-F1A5-4830-AABD-56E26F877A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B86BA7-F1A5-4830-AABD-56E26F877A0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
