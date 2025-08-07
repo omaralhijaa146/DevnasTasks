@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\DevnasTasks\Help-DeskTicketQueue\bin\Debug\net8.0\Help-DeskTicketQueue.exe
+C:\Users\User\RiderProjects\DevnasTasks\Help-DeskTicketQueue\bin\Debug\net8.0\Help-DeskTicketQueue.deps.json
+C:\Users\User\RiderProjects\DevnasTasks\Help-DeskTicketQueue\bin\Debug\net8.0\Help-DeskTicketQueue.runtimeconfig.json
+C:\Users\User\RiderProjects\DevnasTasks\Help-DeskTicketQueue\bin\Debug\net8.0\Help-DeskTicketQueue.dll
+C:\Users\User\RiderProjects\DevnasTasks\Help-DeskTicketQueue\bin\Debug\net8.0\Help-DeskTicketQueue.pdb
+C:\Users\User\RiderProjects\DevnasTasks\Help-DeskTicketQueue\obj\Debug\net8.0\Help-DeskTicketQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\DevnasTasks\Help-DeskTicketQueue\obj\Debug\net8.0\Help-DeskTicketQueue.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\DevnasTasks\Help-DeskTicketQueue\obj\Debug\net8.0\Help-DeskTicketQueue.AssemblyInfo.cs
+C:\Users\User\RiderProjects\DevnasTasks\Help-DeskTicketQueue\obj\Debug\net8.0\Help-DeskTicketQueue.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\DevnasTasks\Help-DeskTicketQueue\obj\Debug\net8.0\Help-DeskTicketQueue.sourcelink.json
+C:\Users\User\RiderProjects\DevnasTasks\Help-DeskTicketQueue\obj\Debug\net8.0\Help-DeskTicketQueue.dll
+C:\Users\User\RiderProjects\DevnasTasks\Help-DeskTicketQueue\obj\Debug\net8.0\refint\Help-DeskTicketQueue.dll
+C:\Users\User\RiderProjects\DevnasTasks\Help-DeskTicketQueue\obj\Debug\net8.0\Help-DeskTicketQueue.pdb
+C:\Users\User\RiderProjects\DevnasTasks\Help-DeskTicketQueue\obj\Debug\net8.0\Help-DeskTicketQueue.genruntimeconfig.cache
+C:\Users\User\RiderProjects\DevnasTasks\Help-DeskTicketQueue\obj\Debug\net8.0\ref\Help-DeskTicketQueue.dll

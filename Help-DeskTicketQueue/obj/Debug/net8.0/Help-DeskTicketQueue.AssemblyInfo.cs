@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Help-DeskTicketQueue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ec983b066ac6bfb62f89922855b8c2c82e40a4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50529c6d049c708dca9455665467098bed8db9aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Help-DeskTicketQueue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Help-DeskTicketQueue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
