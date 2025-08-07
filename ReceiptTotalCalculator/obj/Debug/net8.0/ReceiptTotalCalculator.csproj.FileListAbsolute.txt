@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\DevnasTasks\ReceiptTotalCalculator\bin\Debug\net8.0\ReceiptTotalCalculator.exe
+C:\Users\User\RiderProjects\DevnasTasks\ReceiptTotalCalculator\bin\Debug\net8.0\ReceiptTotalCalculator.deps.json
+C:\Users\User\RiderProjects\DevnasTasks\ReceiptTotalCalculator\bin\Debug\net8.0\ReceiptTotalCalculator.runtimeconfig.json
+C:\Users\User\RiderProjects\DevnasTasks\ReceiptTotalCalculator\bin\Debug\net8.0\ReceiptTotalCalculator.dll
+C:\Users\User\RiderProjects\DevnasTasks\ReceiptTotalCalculator\bin\Debug\net8.0\ReceiptTotalCalculator.pdb
+C:\Users\User\RiderProjects\DevnasTasks\ReceiptTotalCalculator\obj\Debug\net8.0\ReceiptTotalCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\DevnasTasks\ReceiptTotalCalculator\obj\Debug\net8.0\ReceiptTotalCalculator.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\DevnasTasks\ReceiptTotalCalculator\obj\Debug\net8.0\ReceiptTotalCalculator.AssemblyInfo.cs
+C:\Users\User\RiderProjects\DevnasTasks\ReceiptTotalCalculator\obj\Debug\net8.0\ReceiptTotalCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\DevnasTasks\ReceiptTotalCalculator\obj\Debug\net8.0\ReceiptTotalCalculator.sourcelink.json
+C:\Users\User\RiderProjects\DevnasTasks\ReceiptTotalCalculator\obj\Debug\net8.0\ReceiptTotalCalculator.dll
+C:\Users\User\RiderProjects\DevnasTasks\ReceiptTotalCalculator\obj\Debug\net8.0\refint\ReceiptTotalCalculator.dll
+C:\Users\User\RiderProjects\DevnasTasks\ReceiptTotalCalculator\obj\Debug\net8.0\ReceiptTotalCalculator.pdb
+C:\Users\User\RiderProjects\DevnasTasks\ReceiptTotalCalculator\obj\Debug\net8.0\ReceiptTotalCalculator.genruntimeconfig.cache
+C:\Users\User\RiderProjects\DevnasTasks\ReceiptTotalCalculator\obj\Debug\net8.0\ref\ReceiptTotalCalculator.dll
