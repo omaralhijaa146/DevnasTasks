@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\DevnasTasks\MetricImperialConverter\bin\Debug\net8.0\MetricImperialConverter.exe
+C:\Users\User\RiderProjects\DevnasTasks\MetricImperialConverter\bin\Debug\net8.0\MetricImperialConverter.deps.json
+C:\Users\User\RiderProjects\DevnasTasks\MetricImperialConverter\bin\Debug\net8.0\MetricImperialConverter.runtimeconfig.json
+C:\Users\User\RiderProjects\DevnasTasks\MetricImperialConverter\bin\Debug\net8.0\MetricImperialConverter.dll
+C:\Users\User\RiderProjects\DevnasTasks\MetricImperialConverter\bin\Debug\net8.0\MetricImperialConverter.pdb
+C:\Users\User\RiderProjects\DevnasTasks\MetricImperialConverter\obj\Debug\net8.0\MetricImperialConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\DevnasTasks\MetricImperialConverter\obj\Debug\net8.0\MetricImperialConverter.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\DevnasTasks\MetricImperialConverter\obj\Debug\net8.0\MetricImperialConverter.AssemblyInfo.cs
+C:\Users\User\RiderProjects\DevnasTasks\MetricImperialConverter\obj\Debug\net8.0\MetricImperialConverter.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\DevnasTasks\MetricImperialConverter\obj\Debug\net8.0\MetricImperialConverter.sourcelink.json
+C:\Users\User\RiderProjects\DevnasTasks\MetricImperialConverter\obj\Debug\net8.0\MetricImperialConverter.dll
+C:\Users\User\RiderProjects\DevnasTasks\MetricImperialConverter\obj\Debug\net8.0\refint\MetricImperialConverter.dll
+C:\Users\User\RiderProjects\DevnasTasks\MetricImperialConverter\obj\Debug\net8.0\MetricImperialConverter.pdb
+C:\Users\User\RiderProjects\DevnasTasks\MetricImperialConverter\obj\Debug\net8.0\MetricImperialConverter.genruntimeconfig.cache
+C:\Users\User\RiderProjects\DevnasTasks\MetricImperialConverter\obj\Debug\net8.0\ref\MetricImperialConverter.dll
