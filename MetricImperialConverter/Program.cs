@@ -5,14 +5,27 @@ class Program
     static void Main(string[] args)
     {
         var isExit = false;
-        void PrintProgramOpeningMeassge()
+        void PrintProgramOpeningMessage()
         {
+            Console.ForegroundColor= ConsoleColor.Green;
             Console.WriteLine("----------------------------------------");
             Console.WriteLine("Welcome to Metric / Imperial Converter");
             Console.WriteLine("----------------------------------------");
             Console.WriteLine("Please enter a unit code (m, km, yd, mi) and a value or press ctrl+c to exit");
             Console.WriteLine("----------------------------------------");
-            
+            Console.ResetColor();
+            Console.ForegroundColor= ConsoleColor.Yellow;
+            Console.WriteLine("----------------------------------------");
+            Console.WriteLine("Supported Conversions: ");
+            Console.WriteLine(
+                @"
+                1-KmToMi
+                2-MiToKm
+                3-MToYd
+                4-YdToM
+                5-KmToYd
+                6-YdToKm");
+
         }
 
         void EndProgram(object? sender, ConsoleCancelEventArgs e)
@@ -26,8 +39,9 @@ class Program
             Console.WriteLine("----------------------------------------");
             Environment.Exit(0);
         }
-        Console.CancelKeyPress += EndProgram;
         
+        Console.CancelKeyPress += EndProgram;
+        PrintProgramOpeningMessage();
         var converter=new MetricImperialConverter();
         
         while (!isExit)
@@ -43,11 +57,13 @@ class Program
                 }
 
                 var convertedValue = converter.Convert(checkedValue, firstUnit, secondUnit);
+                
                 Console.ForegroundColor= ConsoleColor.DarkGreen;
                 Console.Write($"Converted");
                 Console.ForegroundColor= ConsoleColor.DarkRed;
                 Console.Write($" {checkedValue} {firstUnit} to {convertedValue} {secondUnit}");
                 Console.WriteLine();
+                Console.ResetColor();
             }
             catch (ArgumentException e)
             {

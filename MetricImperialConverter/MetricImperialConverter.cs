@@ -15,6 +15,12 @@ public class MetricImperialConverter
             {ConversionDirectionConstants.MToYd,MetricConversionFactors.M / MetricConversionFactors.Yd},
             {ConversionDirectionConstants.YdToM,MetricConversionFactors.Yd/MetricConversionFactors.M},
         };
+        //KmToMi
+        //MiToKm
+        //MToYd
+        //YdToM
+        //KmToYd
+        //YdToKm
     }
 
 
