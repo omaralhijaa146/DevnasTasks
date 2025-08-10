@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetricImperialConverter", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeAreaCalculator", "ShapeAreaCalculator\ShapeAreaCalculator.csproj", "{EBDE1561-C9FC-4858-A1D8-CFED222C2A90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneSecondAlarmTimer", "OneSecondAlarmTimer\OneSecondAlarmTimer.csproj", "{0E56EAF5-95FE-4900-8303-C72E361EEC60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{EBDE1561-C9FC-4858-A1D8-CFED222C2A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBDE1561-C9FC-4858-A1D8-CFED222C2A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBDE1561-C9FC-4858-A1D8-CFED222C2A90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E56EAF5-95FE-4900-8303-C72E361EEC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E56EAF5-95FE-4900-8303-C72E361EEC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E56EAF5-95FE-4900-8303-C72E361EEC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E56EAF5-95FE-4900-8303-C72E361EEC60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
