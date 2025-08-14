@@ -5,7 +5,8 @@ class Program
     static void Main(string[] args)
     {
         var numbersList = Enumerable.Range(1, 10).ToList();
-        var numbersList2 = new[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+        var numbersList2 = numbersList.ToArray();
+        HashSet<int> hashSet = new HashSet<int>(numbersList);
         var dataTransformer = new DataTransformer();
         Func<int,int> transformer = x => (int)Math.Pow(x, 2);
         Action<int> logger = x => Console.WriteLine($"Result = {x}");
