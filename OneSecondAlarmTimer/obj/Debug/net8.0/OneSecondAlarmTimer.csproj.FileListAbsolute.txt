@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\DevnasTasks\OneSecondAlarmTimer\bin\Debug\net8.0\OneSecondAlarmTimer.exe
+C:\Users\User\RiderProjects\DevnasTasks\OneSecondAlarmTimer\bin\Debug\net8.0\OneSecondAlarmTimer.deps.json
+C:\Users\User\RiderProjects\DevnasTasks\OneSecondAlarmTimer\bin\Debug\net8.0\OneSecondAlarmTimer.runtimeconfig.json
+C:\Users\User\RiderProjects\DevnasTasks\OneSecondAlarmTimer\bin\Debug\net8.0\OneSecondAlarmTimer.dll
+C:\Users\User\RiderProjects\DevnasTasks\OneSecondAlarmTimer\bin\Debug\net8.0\OneSecondAlarmTimer.pdb
+C:\Users\User\RiderProjects\DevnasTasks\OneSecondAlarmTimer\obj\Debug\net8.0\OneSecondAlarmTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\DevnasTasks\OneSecondAlarmTimer\obj\Debug\net8.0\OneSecondAlarmTimer.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\DevnasTasks\OneSecondAlarmTimer\obj\Debug\net8.0\OneSecondAlarmTimer.AssemblyInfo.cs
+C:\Users\User\RiderProjects\DevnasTasks\OneSecondAlarmTimer\obj\Debug\net8.0\OneSecondAlarmTimer.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\DevnasTasks\OneSecondAlarmTimer\obj\Debug\net8.0\OneSecondAlarmTimer.sourcelink.json
+C:\Users\User\RiderProjects\DevnasTasks\OneSecondAlarmTimer\obj\Debug\net8.0\OneSecondAlarmTimer.dll
+C:\Users\User\RiderProjects\DevnasTasks\OneSecondAlarmTimer\obj\Debug\net8.0\refint\OneSecondAlarmTimer.dll
+C:\Users\User\RiderProjects\DevnasTasks\OneSecondAlarmTimer\obj\Debug\net8.0\OneSecondAlarmTimer.pdb
+C:\Users\User\RiderProjects\DevnasTasks\OneSecondAlarmTimer\obj\Debug\net8.0\OneSecondAlarmTimer.genruntimeconfig.cache
+C:\Users\User\RiderProjects\DevnasTasks\OneSecondAlarmTimer\obj\Debug\net8.0\ref\OneSecondAlarmTimer.dll

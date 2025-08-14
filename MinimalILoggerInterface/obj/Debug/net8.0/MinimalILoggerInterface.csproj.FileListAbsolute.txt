@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\DevnasTasks\MinimalILoggerInterface\bin\Debug\net8.0\MinimalILoggerInterface.exe
+C:\Users\User\RiderProjects\DevnasTasks\MinimalILoggerInterface\bin\Debug\net8.0\MinimalILoggerInterface.deps.json
+C:\Users\User\RiderProjects\DevnasTasks\MinimalILoggerInterface\bin\Debug\net8.0\MinimalILoggerInterface.runtimeconfig.json
+C:\Users\User\RiderProjects\DevnasTasks\MinimalILoggerInterface\bin\Debug\net8.0\MinimalILoggerInterface.dll
+C:\Users\User\RiderProjects\DevnasTasks\MinimalILoggerInterface\bin\Debug\net8.0\MinimalILoggerInterface.pdb
+C:\Users\User\RiderProjects\DevnasTasks\MinimalILoggerInterface\obj\Debug\net8.0\MinimalILoggerInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\DevnasTasks\MinimalILoggerInterface\obj\Debug\net8.0\MinimalILoggerInterface.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\DevnasTasks\MinimalILoggerInterface\obj\Debug\net8.0\MinimalILoggerInterface.AssemblyInfo.cs
+C:\Users\User\RiderProjects\DevnasTasks\MinimalILoggerInterface\obj\Debug\net8.0\MinimalILoggerInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\DevnasTasks\MinimalILoggerInterface\obj\Debug\net8.0\MinimalILoggerInterface.sourcelink.json
+C:\Users\User\RiderProjects\DevnasTasks\MinimalILoggerInterface\obj\Debug\net8.0\MinimalILoggerInterface.dll
+C:\Users\User\RiderProjects\DevnasTasks\MinimalILoggerInterface\obj\Debug\net8.0\refint\MinimalILoggerInterface.dll
+C:\Users\User\RiderProjects\DevnasTasks\MinimalILoggerInterface\obj\Debug\net8.0\MinimalILoggerInterface.pdb
+C:\Users\User\RiderProjects\DevnasTasks\MinimalILoggerInterface\obj\Debug\net8.0\MinimalILoggerInterface.genruntimeconfig.cache
+C:\Users\User\RiderProjects\DevnasTasks\MinimalILoggerInterface\obj\Debug\net8.0\ref\MinimalILoggerInterface.dll

@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneSecondAlarmTimer", "OneS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryGenericRepository", "InMemoryGenericRepository\InMemoryGenericRepository.csproj", "{82C1BDAF-9F31-4F66-9717-F37D67CAE168}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalILoggerInterface", "MinimalILoggerInterface\MinimalILoggerInterface.csproj", "{B3F87B81-A7FA-4017-A1D4-6D7CD128232D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{82C1BDAF-9F31-4F66-9717-F37D67CAE168}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82C1BDAF-9F31-4F66-9717-F37D67CAE168}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82C1BDAF-9F31-4F66-9717-F37D67CAE168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F87B81-A7FA-4017-A1D4-6D7CD128232D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F87B81-A7FA-4017-A1D4-6D7CD128232D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F87B81-A7FA-4017-A1D4-6D7CD128232D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F87B81-A7FA-4017-A1D4-6D7CD128232D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\DevnasTasks\InMemoryGenericRepository\bin\Debug\net8.0\InMemoryGenericRepository.exe
+C:\Users\User\RiderProjects\DevnasTasks\InMemoryGenericRepository\bin\Debug\net8.0\InMemoryGenericRepository.deps.json
+C:\Users\User\RiderProjects\DevnasTasks\InMemoryGenericRepository\bin\Debug\net8.0\InMemoryGenericRepository.runtimeconfig.json
+C:\Users\User\RiderProjects\DevnasTasks\InMemoryGenericRepository\bin\Debug\net8.0\InMemoryGenericRepository.dll
+C:\Users\User\RiderProjects\DevnasTasks\InMemoryGenericRepository\bin\Debug\net8.0\InMemoryGenericRepository.pdb
+C:\Users\User\RiderProjects\DevnasTasks\InMemoryGenericRepository\obj\Debug\net8.0\InMemoryGenericRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\DevnasTasks\InMemoryGenericRepository\obj\Debug\net8.0\InMemoryGenericRepository.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\DevnasTasks\InMemoryGenericRepository\obj\Debug\net8.0\InMemoryGenericRepository.AssemblyInfo.cs
+C:\Users\User\RiderProjects\DevnasTasks\InMemoryGenericRepository\obj\Debug\net8.0\InMemoryGenericRepository.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\DevnasTasks\InMemoryGenericRepository\obj\Debug\net8.0\InMemoryGenericRepository.sourcelink.json
+C:\Users\User\RiderProjects\DevnasTasks\InMemoryGenericRepository\obj\Debug\net8.0\InMemoryGenericRepository.dll
+C:\Users\User\RiderProjects\DevnasTasks\InMemoryGenericRepository\obj\Debug\net8.0\refint\InMemoryGenericRepository.dll
+C:\Users\User\RiderProjects\DevnasTasks\InMemoryGenericRepository\obj\Debug\net8.0\InMemoryGenericRepository.pdb
+C:\Users\User\RiderProjects\DevnasTasks\InMemoryGenericRepository\obj\Debug\net8.0\InMemoryGenericRepository.genruntimeconfig.cache
+C:\Users\User\RiderProjects\DevnasTasks\InMemoryGenericRepository\obj\Debug\net8.0\ref\InMemoryGenericRepository.dll
