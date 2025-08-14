@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\DevnasTasks\DataTransformerwithFuncandAction\bin\Debug\net8.0\DataTransformerwithFuncandAction.exe
+C:\Users\User\RiderProjects\DevnasTasks\DataTransformerwithFuncandAction\bin\Debug\net8.0\DataTransformerwithFuncandAction.deps.json
+C:\Users\User\RiderProjects\DevnasTasks\DataTransformerwithFuncandAction\bin\Debug\net8.0\DataTransformerwithFuncandAction.runtimeconfig.json
+C:\Users\User\RiderProjects\DevnasTasks\DataTransformerwithFuncandAction\bin\Debug\net8.0\DataTransformerwithFuncandAction.dll
+C:\Users\User\RiderProjects\DevnasTasks\DataTransformerwithFuncandAction\bin\Debug\net8.0\DataTransformerwithFuncandAction.pdb
+C:\Users\User\RiderProjects\DevnasTasks\DataTransformerwithFuncandAction\obj\Debug\net8.0\DataTransformerwithFuncandAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\DevnasTasks\DataTransformerwithFuncandAction\obj\Debug\net8.0\DataTransformerwithFuncandAction.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\DevnasTasks\DataTransformerwithFuncandAction\obj\Debug\net8.0\DataTransformerwithFuncandAction.AssemblyInfo.cs
+C:\Users\User\RiderProjects\DevnasTasks\DataTransformerwithFuncandAction\obj\Debug\net8.0\DataTransformerwithFuncandAction.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\DevnasTasks\DataTransformerwithFuncandAction\obj\Debug\net8.0\DataTransformerwithFuncandAction.sourcelink.json
+C:\Users\User\RiderProjects\DevnasTasks\DataTransformerwithFuncandAction\obj\Debug\net8.0\DataTransformerwithFuncandAction.dll
+C:\Users\User\RiderProjects\DevnasTasks\DataTransformerwithFuncandAction\obj\Debug\net8.0\refint\DataTransformerwithFuncandAction.dll
+C:\Users\User\RiderProjects\DevnasTasks\DataTransformerwithFuncandAction\obj\Debug\net8.0\DataTransformerwithFuncandAction.pdb
+C:\Users\User\RiderProjects\DevnasTasks\DataTransformerwithFuncandAction\obj\Debug\net8.0\DataTransformerwithFuncandAction.genruntimeconfig.cache
+C:\Users\User\RiderProjects\DevnasTasks\DataTransformerwithFuncandAction\obj\Debug\net8.0\ref\DataTransformerwithFuncandAction.dll
