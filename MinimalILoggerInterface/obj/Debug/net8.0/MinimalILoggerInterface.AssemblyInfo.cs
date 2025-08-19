@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinimalILoggerInterface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc902a52f711abb81e15a30c50e2394114ff1062")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7db7b04911275831ac7bd08de94812c45511b12")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinimalILoggerInterface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinimalILoggerInterface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

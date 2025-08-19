@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\DevnasTasks\ProductFilterWithLinq\bin\Debug\net8.0\ProductFilterWithLinq.exe
+C:\Users\User\RiderProjects\DevnasTasks\ProductFilterWithLinq\bin\Debug\net8.0\ProductFilterWithLinq.deps.json
+C:\Users\User\RiderProjects\DevnasTasks\ProductFilterWithLinq\bin\Debug\net8.0\ProductFilterWithLinq.runtimeconfig.json
+C:\Users\User\RiderProjects\DevnasTasks\ProductFilterWithLinq\bin\Debug\net8.0\ProductFilterWithLinq.dll
+C:\Users\User\RiderProjects\DevnasTasks\ProductFilterWithLinq\bin\Debug\net8.0\ProductFilterWithLinq.pdb
+C:\Users\User\RiderProjects\DevnasTasks\ProductFilterWithLinq\obj\Debug\net8.0\ProductFilterWithLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\DevnasTasks\ProductFilterWithLinq\obj\Debug\net8.0\ProductFilterWithLinq.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\DevnasTasks\ProductFilterWithLinq\obj\Debug\net8.0\ProductFilterWithLinq.AssemblyInfo.cs
+C:\Users\User\RiderProjects\DevnasTasks\ProductFilterWithLinq\obj\Debug\net8.0\ProductFilterWithLinq.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\DevnasTasks\ProductFilterWithLinq\obj\Debug\net8.0\ProductFilterWithLinq.sourcelink.json
+C:\Users\User\RiderProjects\DevnasTasks\ProductFilterWithLinq\obj\Debug\net8.0\ProductFilterWithLinq.dll
+C:\Users\User\RiderProjects\DevnasTasks\ProductFilterWithLinq\obj\Debug\net8.0\refint\ProductFilterWithLinq.dll
+C:\Users\User\RiderProjects\DevnasTasks\ProductFilterWithLinq\obj\Debug\net8.0\ProductFilterWithLinq.pdb
+C:\Users\User\RiderProjects\DevnasTasks\ProductFilterWithLinq\obj\Debug\net8.0\ProductFilterWithLinq.genruntimeconfig.cache
+C:\Users\User\RiderProjects\DevnasTasks\ProductFilterWithLinq\obj\Debug\net8.0\ref\ProductFilterWithLinq.dll
